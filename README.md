@@ -1,1 +1,1 @@
-# CS6515_FA21-SearchInfiniteArray
+# Infinite Array w/ Binary Search
